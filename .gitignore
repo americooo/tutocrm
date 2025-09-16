@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+tutocrm-nER-Djlj/
+
+# Django
+db.sqlite3
+
+# IDE
+.vscode/
+.idea/
